@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>APO</title>
+
+<style>
+body{
+    background:black;
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+video{
+    width:800px;
+}
+</style>
+
+</head>
+
+<body>
+
+<video controls autoplay>
+    <source src="APO.mp4" type="APO/mp4">
+</video>
+
+</body>
+
+</html>
