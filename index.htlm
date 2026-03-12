@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
 <title>APO</title>
 
@@ -15,7 +14,8 @@ body{
 }
 
 video{
-    width:800px;
+    max-width:80%;
+    max-height:80%;
 }
 </style>
 
@@ -24,9 +24,8 @@ video{
 <body>
 
 <video controls autoplay>
-    <source src="APO.mp4" type="APO/mp4">
+    <source src="APO.mp4" type="video/mp4">
 </video>
 
 </body>
-
 </html>
